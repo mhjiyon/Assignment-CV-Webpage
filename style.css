@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 110%;
+    width: 100%;
+    background-image:url(SitBG.jpg) ;
+    background-size: 40%;
+    background-position:left;
+}
+.img-my{
+    background-image: url(My.PNG);
+    height: 200px;
+    width: 280px;
+    background-size: 85%;
+    background-repeat: no-repeat;
+    clip-path: circle();  
+    padding: 20px 50px;
+}
+.s1{
+    text-decoration:underline;
+    font-size: 28;
+    color: aliceblue;
+    padding: 30px 70px;
+}
+.s2{
+    list-style: none;
+    text-decoration:none;
+    font-size: 20;
+    color: aliceblue;
+    padding: 2px 70px;
+}
+.s3{
+    text-decoration:none;
+    font-style: oblique;
+    font-size: 19;
+    color: aliceblue;
+    padding: 2px 70px;
+    list-style: none;
+}
+.s4{
+    text-decoration:;
+    font-size: 25;
+    color:black;
+    padding: 7px 0px;
+    list-style: none;
+    text-align: center;
+    background-color: cyan;
+}
+
+.s5{
+    text-decoration:none;
+    
+    font-style: oblique;
+    font-size: 19;
+    color: rgb(0, 5, 8);
+    padding: 2px 7px;
+    list-style: none;
+}
+tr{
+    text-align: center;
+}
+td{
+    height: 50px;
+    width: 500px;
+}
+
+ #div1{
+        width: 500px;
+        float: left;
+        height: 900px;
+      }
+#div2{
+        margin:0%;
+        width: 1400px;
+        height: 900px;
+      }
